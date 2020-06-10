@@ -1,0 +1,349 @@
+2018-12-31 15:30:06,553 INFO   chains/main/blocks/head/context/contracts/tz1WGpyzJ1WdZQyKgFN1MY1d7KExGzipFmPJ/balance
+2018-12-31 15:30:06,899 INFO   "1430"
+
+2018-12-31 15:30:06,921 INFO   Tz.Net.Security.Keys
+2018-12-31 15:32:01,881 INFO   Provider :http://mainnet-node.tzscan.io:8732
+2018-12-31 15:32:01,893 INFO   Chain :main
+2018-12-31 15:32:01,898 INFO   chains/main/blocks/head/context/contracts/tz1WGpyzJ1WdZQyKgFN1MY1d7KExGzipFmPJ/balance
+2018-12-31 15:32:02,252 INFO   "1430"
+
+2018-12-31 15:32:02,282 INFO   Tz.Net.Security.Keys
+2018-12-31 15:35:07,578 INFO   Provider :http://mainnet-node.tzscan.io:8732
+2018-12-31 15:35:07,590 INFO   Chain :main
+2018-12-31 15:35:07,595 INFO   Endpoing: chains/main/blocks/head/context/contracts/tz1WGpyzJ1WdZQyKgFN1MY1d7KExGzipFmPJ/balance
+2018-12-31 15:35:07,938 INFO   "1430"
+
+2018-12-31 15:35:07,968 INFO   System.Security.SecureString
+2018-12-31 15:36:14,805 INFO   Provider :http://mainnet-node.tzscan.io:8732
+2018-12-31 15:36:14,817 INFO   Chain :main
+2018-12-31 15:36:14,822 INFO   Endpoint: chains/main/blocks/head/context/contracts/tz1WGpyzJ1WdZQyKgFN1MY1d7KExGzipFmPJ/balance
+2018-12-31 15:36:15,178 INFO   ResponseBody: "1430"
+
+2018-12-31 15:36:15,212 INFO   System.Security.SecureString
+2018-12-31 15:39:25,081 INFO   Provider: http://mainnet-node.tzscan.io:8732
+2018-12-31 15:39:25,096 INFO   Chain: main
+2018-12-31 15:39:25,102 INFO   Endpoint: chains/main/blocks/head/context/contracts/tz1WGpyzJ1WdZQyKgFN1MY1d7KExGzipFmPJ/balance
+2018-12-31 15:39:25,448 INFO   ResponseBody: "1430"
+
+2018-12-31 15:39:25,475 INFO   tz1WGpyzJ1WdZQyKgFN1MY1d7KExGzipFmPJ
+2018-12-31 15:55:02,367 INFO   Provider: http://mainnet-node.tzscan.io:8732
+2018-12-31 15:55:02,381 INFO   Chain: main
+2018-12-31 15:55:02,388 INFO   Endpoint: chains/main/blocks/head/context/contracts/tz1WGpyzJ1WdZQyKgFN1MY1d7KExGzipFmPJ/balance
+2018-12-31 15:55:02,739 INFO   ResponseBody: "1430"
+
+2018-12-31 15:55:02,771 INFO   tz1WGpyzJ1WdZQyKgFN1MY1d7KExGzipFmPJ
+2018-12-31 16:06:16,742 INFO   Provider: http://mainnet-node.tzscan.io:8732
+2018-12-31 16:06:16,758 INFO   Chain: main
+2018-12-31 16:06:16,765 INFO   Endpoint: chains/main/blocks/head/context/contracts/tz1WGpyzJ1WdZQyKgFN1MY1d7KExGzipFmPJ/balance
+2018-12-31 16:06:17,143 INFO   ResponseBody: "1430"
+
+2018-12-31 16:06:17,179 INFO   Balance: 0.143
+2018-12-31 16:06:17,179 INFO   tz1WGpyzJ1WdZQyKgFN1MY1d7KExGzipFmPJ
+2019-01-01 13:15:39,094 INFO   KT1MhbE8s8VRrU3B7JEYmxnUD9oR3zJLDZdL  18.47550%  4.210994
+2019-01-01 13:15:39,110 INFO   KT1Tq3ZpWUzN4b3LxeqEpve7hSx6UzvFtkAC  4.91140%  1.118378
+2019-01-01 13:15:39,111 INFO   KT1F53SuT5ore7Zc7ANqQ2ABFBHuoE2GQqZC  4.75692%  1.083157
+2019-01-01 13:15:39,111 INFO   KT1TzSitJ71n8EU6iZzbZaMm3nzg4gjrfraV  2.34318%  0.532825
+2019-01-01 13:15:39,112 INFO   KT1PVKTkpmuUvscXHUc5UhzobBDq9L7QZMEj  1.52824%  0.347019
+2019-01-01 13:17:16,224 INFO   KT1MhbE8s8VRrU3B7JEYmxnUD9oR3zJLDZdL  18.47550%  4.21099452424002736227675341012
+2019-01-01 13:17:16,235 INFO   KT1Tq3ZpWUzN4b3LxeqEpve7hSx6UzvFtkAC  4.91140%  1.11837882444646168019884335596
+2019-01-01 13:17:16,235 INFO   KT1F53SuT5ore7Zc7ANqQ2ABFBHuoE2GQqZC  4.75692%  1.08315770016816870912444863888
+2019-01-01 13:17:16,236 INFO   KT1TzSitJ71n8EU6iZzbZaMm3nzg4gjrfraV  2.34318%  0.53282549423862217560428528468
+2019-01-01 13:17:16,237 INFO   KT1PVKTkpmuUvscXHUc5UhzobBDq9L7QZMEj  1.52824%  0.34701944445293323105048641164
+2019-01-01 15:14:52,936 INFO   KT1MhbE8s8VRrU3B7JEYmxnUD9oR3zJLDZdL  18.47550%  4.210994
+2019-01-01 15:14:52,946 INFO   KT1Tq3ZpWUzN4b3LxeqEpve7hSx6UzvFtkAC  4.91140%  1.118378
+2019-01-01 15:14:52,947 INFO   KT1F53SuT5ore7Zc7ANqQ2ABFBHuoE2GQqZC  4.75692%  1.083157
+2019-01-01 15:14:52,947 INFO   KT1TzSitJ71n8EU6iZzbZaMm3nzg4gjrfraV  2.34318%  0.532825
+2019-01-01 15:14:52,948 INFO   KT1PVKTkpmuUvscXHUc5UhzobBDq9L7QZMEj  1.52824%  0.347019
+2019-01-01 15:25:35,336 INFO   KT1MhbE8s8VRrU3B7JEYmxnUD9oR3zJLDZdL  18.47550%  4.210994
+2019-01-01 15:25:35,346 INFO   KT1Tq3ZpWUzN4b3LxeqEpve7hSx6UzvFtkAC  4.91140%  1.118378
+2019-01-01 15:25:35,347 INFO   KT1F53SuT5ore7Zc7ANqQ2ABFBHuoE2GQqZC  4.75692%  1.083157
+2019-01-01 15:25:35,347 INFO   KT1TzSitJ71n8EU6iZzbZaMm3nzg4gjrfraV  2.34318%  0.532825
+2019-01-01 15:25:35,348 INFO   KT1PVKTkpmuUvscXHUc5UhzobBDq9L7QZMEj  1.52824%  0.347019
+2019-01-02 20:30:21,632 INFO   KT1MhbE8s8VRrU3B7JEYmxnUD9oR3zJLDZdL  18.47550 %  4.210994?
+2019-01-02 20:30:21,645 INFO   KT1Tq3ZpWUzN4b3LxeqEpve7hSx6UzvFtkAC  4.91140 %  1.118378?
+2019-01-02 20:30:21,645 INFO   KT1F53SuT5ore7Zc7ANqQ2ABFBHuoE2GQqZC  4.75692 %  1.083157?
+2019-01-02 20:30:21,646 INFO   KT1TzSitJ71n8EU6iZzbZaMm3nzg4gjrfraV  2.34318 %  0.532825?
+2019-01-02 20:30:21,646 INFO   KT1PVKTkpmuUvscXHUc5UhzobBDq9L7QZMEj  1.52824 %  0.347019?
+2019-01-02 20:31:19,194 INFO   KT1MhbE8s8VRrU3B7JEYmxnUD9oR3zJLDZdL  18.56069 %  3.877763?
+2019-01-02 20:31:19,206 INFO   KT1Tq3ZpWUzN4b3LxeqEpve7hSx6UzvFtkAC  4.93402 %  1.02979?
+2019-01-02 20:31:19,206 INFO   KT1F53SuT5ore7Zc7ANqQ2ABFBHuoE2GQqZC  4.77886 %  0.997361?
+2019-01-02 20:31:19,207 INFO   KT1TzSitJ71n8EU6iZzbZaMm3nzg4gjrfraV  2.35398 %  0.490562?
+2019-01-02 20:31:19,207 INFO   KT1PVKTkpmuUvscXHUc5UhzobBDq9L7QZMEj  1.53529 %  0.319454?
+2019-01-02 20:32:56,427 INFO   KT1MhbE8s8VRrU3B7JEYmxnUD9oR3zJLDZdL  18.56069 %  3.877763?
+2019-01-02 20:32:56,435 INFO   KT1Tq3ZpWUzN4b3LxeqEpve7hSx6UzvFtkAC  4.93402 %  1.02979?
+2019-01-02 20:32:56,436 INFO   KT1F53SuT5ore7Zc7ANqQ2ABFBHuoE2GQqZC  4.77886 %  0.997361?
+2019-01-02 20:32:56,436 INFO   KT1TzSitJ71n8EU6iZzbZaMm3nzg4gjrfraV  2.35398 %  0.490562?
+2019-01-02 20:32:56,436 INFO   KT1PVKTkpmuUvscXHUc5UhzobBDq9L7QZMEj  1.53529 %  0.319454?
+2019-01-02 20:32:56,588 INFO   Provider: http://mainnet-node.tzscan.io:8732
+2019-01-02 20:32:56,589 INFO   Chain: main
+2019-01-02 20:32:56,592 INFO   Endpoint: chains/main/blocks/head/context/contracts/tz1WGpyzJ1WdZQyKgFN1MY1d7KExGzipFmPJ/balance
+2019-01-02 20:33:17,571 INFO   KT1MhbE8s8VRrU3B7JEYmxnUD9oR3zJLDZdL  18.56069 %  3.877763?
+2019-01-02 20:33:17,581 INFO   KT1Tq3ZpWUzN4b3LxeqEpve7hSx6UzvFtkAC  4.93402 %  1.02979?
+2019-01-02 20:33:17,581 INFO   KT1F53SuT5ore7Zc7ANqQ2ABFBHuoE2GQqZC  4.77886 %  0.997361?
+2019-01-02 20:33:17,582 INFO   KT1TzSitJ71n8EU6iZzbZaMm3nzg4gjrfraV  2.35398 %  0.490562?
+2019-01-02 20:33:17,582 INFO   KT1PVKTkpmuUvscXHUc5UhzobBDq9L7QZMEj  1.53529 %  0.319454?
+2019-01-02 20:33:17,687 INFO   Provider: http://mainnet-node.tzscan.io:8732
+2019-01-02 20:33:17,687 INFO   Chain: main
+2019-01-02 20:33:17,692 INFO   Endpoint: chains/main/blocks/head/context/contracts/tz1WGpyzJ1WdZQyKgFN1MY1d7KExGzipFmPJ/balance
+2019-01-02 20:34:47,716 INFO   KT1MhbE8s8VRrU3B7JEYmxnUD9oR3zJLDZdL  18.56069 %  3.877763?
+2019-01-02 20:34:47,725 INFO   KT1Tq3ZpWUzN4b3LxeqEpve7hSx6UzvFtkAC  4.93402 %  1.02979?
+2019-01-02 20:34:47,726 INFO   KT1F53SuT5ore7Zc7ANqQ2ABFBHuoE2GQqZC  4.77886 %  0.997361?
+2019-01-02 20:34:47,726 INFO   KT1TzSitJ71n8EU6iZzbZaMm3nzg4gjrfraV  2.35398 %  0.490562?
+2019-01-02 20:34:47,726 INFO   KT1PVKTkpmuUvscXHUc5UhzobBDq9L7QZMEj  1.53529 %  0.319454?
+2019-01-02 20:34:47,833 INFO   Provider: http://mainnet-node.tzscan.io:8732
+2019-01-02 20:34:47,834 INFO   Chain: main
+2019-01-02 20:34:47,838 INFO   Endpoint: chains/main/blocks/head/context/contracts/tz1WGpyzJ1WdZQyKgFN1MY1d7KExGzipFmPJ/balance
+2019-01-02 20:34:48,111 INFO   ResponseBody: "1430"
+
+2019-01-02 20:37:54,108 INFO   Provider: http://mainnet-node.tzscan.io:8732
+2019-01-02 20:37:54,840 INFO   Chain: main
+2019-01-02 20:38:11,247 INFO   Endpoint: chains/main/blocks/head/header
+2019-01-02 20:38:11,534 INFO   ResponseBody: {"protocol":"PsddFKi32cMJ2qPjf43Qv5GDWLDPZb3T3bF6fLKiF5HtvHNU7aP","chain_id":"NetXdQprcVkpaWU","hash":"BML2QEny8LKNQ2FDpz8F6arQ7LrjN5Lw5zDy6Hbf7rMy8nyNwoT","level":254154,"proto":3,"predecessor":"BKm6XFo5dt2A4bqorjcofU7AFmhAraThBVdcLdrfd93nQPPF4sn","timestamp":"2019-01-03T03:36:57Z","validation_pass":4,"operations_hash":"LLoZqKsBtwdUMUwZ6M8PTwnyAMhfWdvQnRL5vynH3M3FH1R5WrWoA","fitness":["00","000000000075ce0a"],"context":"CoVMVtbM67wabrNkZsUSsti5PgK9PUHxs8vzmnADP939iY3CKp5X","priority":0,"proof_of_work_nonce":"00000003d5c58274","signature":"sigRwE6nThHQc5b3EXKRHGt4c4dUEepRG5RBNRq6e5tCmrS6capYUEMFbM3iRYwNCeFaoJtXXwDfpKYbhTKCaSkQxRJEt3S1"}
+
+2019-01-02 20:38:11,880 INFO   Endpoint: chains/main/blocks/BML2QEny8LKNQ2FDpz8F6arQ7LrjN5Lw5zDy6Hbf7rMy8nyNwoT/context/contracts/KT1WUXumx4Fq1W8PhFNxDTey1sHNqwF1Ux3V
+2019-01-02 20:38:12,022 INFO   ResponseBody: {"manager":"tz1WGpyzJ1WdZQyKgFN1MY1d7KExGzipFmPJ","balance":"16256566","spendable":true,"delegate":{"setable":true,"value":"tz1aKxnrzx5PXZJe7unufEswVRCMU9yafmfb"},"counter":"47"}
+
+2019-01-02 20:38:27,696 INFO   Endpoint: chains/main/blocks/head/context/contracts/KT1WUXumx4Fq1W8PhFNxDTey1sHNqwF1Ux3V/manager_key
+2019-01-02 20:38:27,823 INFO   ResponseBody: {"manager":"tz1WGpyzJ1WdZQyKgFN1MY1d7KExGzipFmPJ","key":"edpkuhW7TALmFvoVvoKingUr7FNSNE5WwVV4nDBqQDSdmmhG5w3Ado"}
+
+2019-01-02 20:41:50,030 INFO   KT1MhbE8s8VRrU3B7JEYmxnUD9oR3zJLDZdL  18.56069 %  3.877763?
+2019-01-02 20:41:50,046 INFO   KT1Tq3ZpWUzN4b3LxeqEpve7hSx6UzvFtkAC  4.93402 %  1.02979?
+2019-01-02 20:41:50,046 INFO   KT1F53SuT5ore7Zc7ANqQ2ABFBHuoE2GQqZC  4.77886 %  0.997361?
+2019-01-02 20:41:50,046 INFO   KT1TzSitJ71n8EU6iZzbZaMm3nzg4gjrfraV  2.35398 %  0.490562?
+2019-01-02 20:41:50,046 INFO   KT1PVKTkpmuUvscXHUc5UhzobBDq9L7QZMEj  1.53529 %  0.319454?
+2019-01-02 20:41:50,140 INFO   Provider: http://mainnet-node.tzscan.io:8732
+2019-01-02 20:41:50,140 INFO   Chain: main
+2019-01-02 20:41:50,140 INFO   Endpoint: chains/main/blocks/head/context/contracts/tz1WGpyzJ1WdZQyKgFN1MY1d7KExGzipFmPJ/balance
+2019-01-02 20:41:50,430 INFO   ResponseBody: "1430"
+
+2019-01-02 20:41:57,296 INFO   Provider: http://mainnet-node.tzscan.io:8732
+2019-01-02 20:41:57,296 INFO   Chain: main
+2019-01-02 20:41:57,296 INFO   Endpoint: chains/main/blocks/head/header
+2019-01-02 20:41:57,439 INFO   ResponseBody: {"protocol":"PsddFKi32cMJ2qPjf43Qv5GDWLDPZb3T3bF6fLKiF5HtvHNU7aP","chain_id":"NetXdQprcVkpaWU","hash":"BLogxcJHz3AvetxaWjJpJN8JLLrPKwryKAjTqmTtuvKgCF965kX","level":254158,"proto":3,"predecessor":"BMBVtgqb9hmgi7VLatmciTw86Xaq3VsGnqcgGn8NgPxTuShhm1Y","timestamp":"2019-01-03T03:40:57Z","validation_pass":4,"operations_hash":"LLoZaPk4ke5hDT3dMvkjp1nKBSMkhwuknd6DqnKjqkVA4LPfkPDtK","fitness":["00","000000000075ce8c"],"context":"CoUgcfwA6QCyt7KHBrFRutKdDqJ1Dh6hQysqVpVgZshUiK2bHMWv","priority":0,"proof_of_work_nonce":"000000037fc7c8ce","signature":"sigY7wFaexuw2i7oBVqeKxrQJNXTrbPb3xLE3qRsmArKnMwmvd4Apwf8sRSfiecQ9jK5psTYBTb9hp7SVnNQJiSbvJkqpfvo"}
+
+2019-01-02 20:41:57,439 INFO   Endpoint: chains/main/blocks/BLogxcJHz3AvetxaWjJpJN8JLLrPKwryKAjTqmTtuvKgCF965kX/context/contracts/KT1WUXumx4Fq1W8PhFNxDTey1sHNqwF1Ux3V
+2019-01-02 20:41:57,584 INFO   ResponseBody: {"manager":"tz1WGpyzJ1WdZQyKgFN1MY1d7KExGzipFmPJ","balance":"16256566","spendable":true,"delegate":{"setable":true,"value":"tz1aKxnrzx5PXZJe7unufEswVRCMU9yafmfb"},"counter":"47"}
+
+2019-01-02 20:41:57,584 INFO   Endpoint: chains/main/blocks/head/context/contracts/KT1WUXumx4Fq1W8PhFNxDTey1sHNqwF1Ux3V/manager_key
+2019-01-02 20:41:57,725 INFO   ResponseBody: {"manager":"tz1WGpyzJ1WdZQyKgFN1MY1d7KExGzipFmPJ","key":"edpkuhW7TALmFvoVvoKingUr7FNSNE5WwVV4nDBqQDSdmmhG5w3Ado"}
+
+2019-01-02 20:43:30,413 INFO   Endpoint: chains/main/blocks/head/helpers/forge/operations
+2019-01-02 20:43:30,413 INFO   Data: {"branch":"BLogxcJHz3AvetxaWjJpJN8JLLrPKwryKAjTqmTtuvKgCF965kX","contents":[{"destination":"KT1MhbE8s8VRrU3B7JEYmxnUD9oR3zJLDZdL","amount":"3877763","storage_limit":"300","gas_limit":"10300","counter":"48","fee":"1420","source":"KT1WUXumx4Fq1W8PhFNxDTey1sHNqwF1Ux3V","kind":"transaction","parameters":{"prim":"Unit","args":[]}},{"destination":"KT1Tq3ZpWUzN4b3LxeqEpve7hSx6UzvFtkAC","amount":"1029790","storage_limit":"300","gas_limit":"10300","counter":"49","fee":"1420","source":"KT1WUXumx4Fq1W8PhFNxDTey1sHNqwF1Ux3V","kind":"transaction","parameters":{"prim":"Unit","args":[]}}]}
+2019-01-02 20:43:30,823 INFO   ResponseBody: "8ff95b9b53282a36044e345509422ba083cc7ce725e4f929d998788607b4dc590801f024df73a15e8448e3c440e45eededbdb5f8ef11008c0b30bc50ac0283d7ec01018fe3eab5a2d657fea29af755e0ef003f47cb7ed000ff00000002030b0801f024df73a15e8448e3c440e45eededbdb5f8ef11008c0b31bc50ac029eed3e01d31d91fd24462b01a7cd1b77772ea308be58ec1b00ff00000002030b"
+
+2019-01-02 20:44:05,923 INFO   Endpoint: chains/main/blocks/head/helpers/preapply/operations
+2019-01-02 20:44:05,923 INFO   Data: [{"protocol":"PsddFKi32cMJ2qPjf43Qv5GDWLDPZb3T3bF6fLKiF5HtvHNU7aP","branch":"BLogxcJHz3AvetxaWjJpJN8JLLrPKwryKAjTqmTtuvKgCF965kX","contents":[{"destination":"KT1MhbE8s8VRrU3B7JEYmxnUD9oR3zJLDZdL","amount":"3877763","storage_limit":"300","gas_limit":"10300","counter":"48","fee":"1420","source":"KT1WUXumx4Fq1W8PhFNxDTey1sHNqwF1Ux3V","kind":"transaction","parameters":{"prim":"Unit","args":[]}},{"destination":"KT1Tq3ZpWUzN4b3LxeqEpve7hSx6UzvFtkAC","amount":"1029790","storage_limit":"300","gas_limit":"10300","counter":"49","fee":"1420","source":"KT1WUXumx4Fq1W8PhFNxDTey1sHNqwF1Ux3V","kind":"transaction","parameters":{"prim":"Unit","args":[]}}],"signature":"edsigtveSrLXW7q9UcebJfSTgLiyv8atsLvLpEvenPHV2kFQ4PvSsbEm8o1JQfATpktsstXfUqznqzkpbXa1PqcNgJ42kCZCiRg"}]
+2019-01-02 20:44:06,220 INFO   ResponseBody: [{"contents":[{"kind":"transaction","source":"KT1WUXumx4Fq1W8PhFNxDTey1sHNqwF1Ux3V","fee":"1420","counter":"48","gas_limit":"10300","storage_limit":"300","amount":"3877763","destination":"KT1MhbE8s8VRrU3B7JEYmxnUD9oR3zJLDZdL","parameters":{"prim":"Unit"},"metadata":{"balance_updates":[{"kind":"contract","contract":"KT1WUXumx4Fq1W8PhFNxDTey1sHNqwF1Ux3V","change":"-1420"},{"kind":"freezer","category":"fees","delegate":"tz1Ke2h7sDdakHJQh8WX4Z372du1KChsksyU","level":62,"change":"1420"}],"operation_result":{"status":"applied","balance_updates":[{"kind":"contract","contract":"KT1WUXumx4Fq1W8PhFNxDTey1sHNqwF1Ux3V","change":"-3877763"},{"kind":"contract","contract":"KT1MhbE8s8VRrU3B7JEYmxnUD9oR3zJLDZdL","change":"3877763"}],"consumed_gas":"10107"}}},{"kind":"transaction","source":"KT1WUXumx4Fq1W8PhFNxDTey1sHNqwF1Ux3V","fee":"1420","counter":"49","gas_limit":"10300","storage_limit":"300","amount":"1029790","destination":"KT1Tq3ZpWUzN4b3LxeqEpve7hSx6UzvFtkAC","parameters":{"prim":"Unit"},"metadata":{"balance_updates":[{"kind":"contract","contract":"KT1WUXumx4Fq1W8PhFNxDTey1sHNqwF1Ux3V","change":"-1420"},{"kind":"freezer","category":"fees","delegate":"tz1Ke2h7sDdakHJQh8WX4Z372du1KChsksyU","level":62,"change":"1420"}],"operation_result":{"status":"applied","balance_updates":[{"kind":"contract","contract":"KT1WUXumx4Fq1W8PhFNxDTey1sHNqwF1Ux3V","change":"-1029790"},{"kind":"contract","contract":"KT1Tq3ZpWUzN4b3LxeqEpve7hSx6UzvFtkAC","change":"1029790"}],"consumed_gas":"10107"}}}],"signature":"edsigtveSrLXW7q9UcebJfSTgLiyv8atsLvLpEvenPHV2kFQ4PvSsbEm8o1JQfATpktsstXfUqznqzkpbXa1PqcNgJ42kCZCiRg"}]
+
+2019-01-02 20:45:13,664 INFO   Endpoint: injection/operation?chain=main
+2019-01-02 20:45:13,664 INFO   Data: "8ff95b9b53282a36044e345509422ba083cc7ce725e4f929d998788607b4dc590801f024df73a15e8448e3c440e45eededbdb5f8ef11008c0b30bc50ac0283d7ec01018fe3eab5a2d657fea29af755e0ef003f47cb7ed000ff00000002030b0801f024df73a15e8448e3c440e45eededbdb5f8ef11008c0b31bc50ac029eed3e01d31d91fd24462b01a7cd1b77772ea308be58ec1b00ff00000002030bAE9332BA981B74FF208306D9D4EE57EADA8ED91A8FD9E02442EB61079ACA56EDF212E49414610CF9F527D5553F7E58EF76E2334D8B887904C03DD15424F16802"
+2019-01-02 20:45:14,080 INFO   ResponseBody: "ooW5gGQuEVpvybr1Wg6WQgunMwmv9iQvGBhAY7ogFhoPRQZyiAr"
+
+2019-01-02 20:57:02,167 INFO   KT1MhbE8s8VRrU3B7JEYmxnUD9oR3zJLDZdL  18.56069 %  3.877763?
+2019-01-02 20:57:02,183 INFO   KT1Tq3ZpWUzN4b3LxeqEpve7hSx6UzvFtkAC  4.93402 %  1.02979?
+2019-01-02 20:57:02,183 INFO   KT1F53SuT5ore7Zc7ANqQ2ABFBHuoE2GQqZC  4.77886 %  0.997361?
+2019-01-02 20:57:02,183 INFO   KT1TzSitJ71n8EU6iZzbZaMm3nzg4gjrfraV  2.35398 %  0.490562?
+2019-01-02 20:57:02,183 INFO   KT1PVKTkpmuUvscXHUc5UhzobBDq9L7QZMEj  1.53529 %  0.319454?
+2019-01-02 20:57:18,840 INFO   Provider: http://mainnet-node.tzscan.io:8732
+2019-01-02 20:57:18,840 INFO   Chain: main
+2019-01-02 20:57:18,840 INFO   Endpoint: chains/main/blocks/head/context/contracts/tz1WGpyzJ1WdZQyKgFN1MY1d7KExGzipFmPJ/balance
+2019-01-02 20:57:19,105 INFO   ResponseBody: "1430"
+
+2019-01-02 20:57:31,767 INFO   Provider: http://mainnet-node.tzscan.io:8732
+2019-01-02 20:57:31,768 INFO   Chain: main
+2019-01-02 20:57:31,770 INFO   Endpoint: chains/main/blocks/head/header
+2019-01-02 20:57:31,907 INFO   ResponseBody: {"protocol":"PsddFKi32cMJ2qPjf43Qv5GDWLDPZb3T3bF6fLKiF5HtvHNU7aP","chain_id":"NetXdQprcVkpaWU","hash":"BLUfXxfRn4hrmmXEyv5JAKQ8Da7UVabMSVkYnr5q2B9NA9La1jz","level":254172,"proto":3,"predecessor":"BMHp5S6VyUNieXxf6RzzE5iBd9NR81Tajj75q1qTJotKagpcKTB","timestamp":"2019-01-03T03:56:12Z","validation_pass":4,"operations_hash":"LLoatqN5dQxuUVbWC9YEfpFsuJBJiwaqZvTsm692EjMjXzj7YKX1p","fitness":["00","000000000075d052"],"context":"CoWEizJSFeVC51QteFASLB5vdyVuzcj3eRy8LXadD8nNjMTCY5FZ","priority":0,"proof_of_work_nonce":"000000036de23230","signature":"sigvU89yKrAxw7AsFvGWKa3Vsc25DdJUX9X7pYqrWipuDQokbQr1qqqMn3T37nn6Wvu9vZ2ApPkAd3kExLPB8GMzvp1umHMK"}
+
+2019-01-02 20:57:31,918 INFO   Endpoint: chains/main/blocks/BLUfXxfRn4hrmmXEyv5JAKQ8Da7UVabMSVkYnr5q2B9NA9La1jz/context/contracts/KT1WUXumx4Fq1W8PhFNxDTey1sHNqwF1Ux3V
+2019-01-02 20:57:32,039 INFO   ResponseBody: {"manager":"tz1WGpyzJ1WdZQyKgFN1MY1d7KExGzipFmPJ","balance":"11346173","spendable":true,"delegate":{"setable":true,"value":"tz1aKxnrzx5PXZJe7unufEswVRCMU9yafmfb"},"counter":"49"}
+
+2019-01-02 20:57:32,055 INFO   Endpoint: chains/main/blocks/head/context/contracts/KT1WUXumx4Fq1W8PhFNxDTey1sHNqwF1Ux3V/manager_key
+2019-01-02 20:57:32,180 INFO   ResponseBody: {"manager":"tz1WGpyzJ1WdZQyKgFN1MY1d7KExGzipFmPJ","key":"edpkuhW7TALmFvoVvoKingUr7FNSNE5WwVV4nDBqQDSdmmhG5w3Ado"}
+
+2019-01-02 20:57:38,949 INFO   Endpoint: chains/main/blocks/head/helpers/forge/operations
+2019-01-02 20:57:38,949 INFO   Data: {"branch":"BLUfXxfRn4hrmmXEyv5JAKQ8Da7UVabMSVkYnr5q2B9NA9La1jz","contents":[{"destination":"KT1F53SuT5ore7Zc7ANqQ2ABFBHuoE2GQqZC","amount":"997361","storage_limit":"300","gas_limit":"10300","counter":"50","fee":"1420","source":"KT1WUXumx4Fq1W8PhFNxDTey1sHNqwF1Ux3V","kind":"transaction","parameters":{"prim":"Unit","args":[]}},{"destination":"KT1TzSitJ71n8EU6iZzbZaMm3nzg4gjrfraV","amount":"490562","storage_limit":"300","gas_limit":"10300","counter":"51","fee":"1420","source":"KT1WUXumx4Fq1W8PhFNxDTey1sHNqwF1Ux3V","kind":"transaction","parameters":{"prim":"Unit","args":[]}},{"destination":"KT1PVKTkpmuUvscXHUc5UhzobBDq9L7QZMEj","amount":"319454","storage_limit":"300","gas_limit":"10300","counter":"52","fee":"1420","source":"KT1WUXumx4Fq1W8PhFNxDTey1sHNqwF1Ux3V","kind":"transaction","parameters":{"prim":"Unit","args":[]}}]}
+2019-01-02 20:57:39,231 INFO   ResponseBody: "64c6c5029ecd55a5ed7ee5d3a0ac8d82f36543077ba9ec0090dd365956270c2b0801f024df73a15e8448e3c440e45eededbdb5f8ef11008c0b32bc50ac02f1ef3c014729a8b5d1ec29b7330974657693a5709a21770800ff00000002030b0801f024df73a15e8448e3c440e45eededbdb5f8ef11008c0b33bc50ac02c2f81d01d4e4a4d1fc7f6b2d74c9ca550bd2259fce0aec9f00ff00000002030b0801f024df73a15e8448e3c440e45eededbdb5f8ef11008c0b34bc50ac02debf1301a382044a2c422d074053a36cb951e061da9d1f6300ff00000002030b"
+
+2019-01-02 20:57:39,247 INFO   Endpoint: chains/main/blocks/head/helpers/preapply/operations
+2019-01-02 20:57:39,247 INFO   Data: [{"protocol":"PsddFKi32cMJ2qPjf43Qv5GDWLDPZb3T3bF6fLKiF5HtvHNU7aP","branch":"BLUfXxfRn4hrmmXEyv5JAKQ8Da7UVabMSVkYnr5q2B9NA9La1jz","contents":[{"destination":"KT1F53SuT5ore7Zc7ANqQ2ABFBHuoE2GQqZC","amount":"997361","storage_limit":"300","gas_limit":"10300","counter":"50","fee":"1420","source":"KT1WUXumx4Fq1W8PhFNxDTey1sHNqwF1Ux3V","kind":"transaction","parameters":{"prim":"Unit","args":[]}},{"destination":"KT1TzSitJ71n8EU6iZzbZaMm3nzg4gjrfraV","amount":"490562","storage_limit":"300","gas_limit":"10300","counter":"51","fee":"1420","source":"KT1WUXumx4Fq1W8PhFNxDTey1sHNqwF1Ux3V","kind":"transaction","parameters":{"prim":"Unit","args":[]}},{"destination":"KT1PVKTkpmuUvscXHUc5UhzobBDq9L7QZMEj","amount":"319454","storage_limit":"300","gas_limit":"10300","counter":"52","fee":"1420","source":"KT1WUXumx4Fq1W8PhFNxDTey1sHNqwF1Ux3V","kind":"transaction","parameters":{"prim":"Unit","args":[]}}],"signature":"edsigtqoviEUWSbnNWXuTssVYo2tLX8xBy1c21SuekVUyTUZCGTJPrc134EzEQxdgSxc1AiB2MqZx52TeeBc3wJVjMDRFvzeNtM"}]
+2019-01-02 20:57:39,553 INFO   ResponseBody: [{"contents":[{"kind":"transaction","source":"KT1WUXumx4Fq1W8PhFNxDTey1sHNqwF1Ux3V","fee":"1420","counter":"50","gas_limit":"10300","storage_limit":"300","amount":"997361","destination":"KT1F53SuT5ore7Zc7ANqQ2ABFBHuoE2GQqZC","parameters":{"prim":"Unit"},"metadata":{"balance_updates":[{"kind":"contract","contract":"KT1WUXumx4Fq1W8PhFNxDTey1sHNqwF1Ux3V","change":"-1420"},{"kind":"freezer","category":"fees","delegate":"tz1Ke2h7sDdakHJQh8WX4Z372du1KChsksyU","level":62,"change":"1420"}],"operation_result":{"status":"applied","balance_updates":[{"kind":"contract","contract":"KT1WUXumx4Fq1W8PhFNxDTey1sHNqwF1Ux3V","change":"-997361"},{"kind":"contract","contract":"KT1F53SuT5ore7Zc7ANqQ2ABFBHuoE2GQqZC","change":"997361"}],"consumed_gas":"10107"}}},{"kind":"transaction","source":"KT1WUXumx4Fq1W8PhFNxDTey1sHNqwF1Ux3V","fee":"1420","counter":"51","gas_limit":"10300","storage_limit":"300","amount":"490562","destination":"KT1TzSitJ71n8EU6iZzbZaMm3nzg4gjrfraV","parameters":{"prim":"Unit"},"metadata":{"balance_updates":[{"kind":"contract","contract":"KT1WUXumx4Fq1W8PhFNxDTey1sHNqwF1Ux3V","change":"-1420"},{"kind":"freezer","category":"fees","delegate":"tz1Ke2h7sDdakHJQh8WX4Z372du1KChsksyU","level":62,"change":"1420"}],"operation_result":{"status":"applied","balance_updates":[{"kind":"contract","contract":"KT1WUXumx4Fq1W8PhFNxDTey1sHNqwF1Ux3V","change":"-490562"},{"kind":"contract","contract":"KT1TzSitJ71n8EU6iZzbZaMm3nzg4gjrfraV","change":"490562"}],"consumed_gas":"10107"}}},{"kind":"transaction","source":"KT1WUXumx4Fq1W8PhFNxDTey1sHNqwF1Ux3V","fee":"1420","counter":"52","gas_limit":"10300","storage_limit":"300","amount":"319454","destination":"KT1PVKTkpmuUvscXHUc5UhzobBDq9L7QZMEj","parameters":{"prim":"Unit"},"metadata":{"balance_updates":[{"kind":"contract","contract":"KT1WUXumx4Fq1W8PhFNxDTey1sHNqwF1Ux3V","change":"-1420"},{"kind":"freezer","category":"fees","delegate":"tz1Ke2h7sDdakHJQh8WX4Z372du1KChsksyU","level":62,"change":"1420"}],"operation_result":{"status":"applied","balance_updates":[{"kind":"contract","contract":"KT1WUXumx4Fq1W8PhFNxDTey1sHNqwF1Ux3V","change":"-319454"},{"kind":"contract","contract":"KT1PVKTkpmuUvscXHUc5UhzobBDq9L7QZMEj","change":"319454"}],"consumed_gas":"10107"}}}],"signature":"edsigtqoviEUWSbnNWXuTssVYo2tLX8xBy1c21SuekVUyTUZCGTJPrc134EzEQxdgSxc1AiB2MqZx52TeeBc3wJVjMDRFvzeNtM"}]
+
+2019-01-02 20:57:39,560 INFO   Endpoint: injection/operation?chain=main
+2019-01-02 20:57:39,560 INFO   Data: "64c6c5029ecd55a5ed7ee5d3a0ac8d82f36543077ba9ec0090dd365956270c2b0801f024df73a15e8448e3c440e45eededbdb5f8ef11008c0b32bc50ac02f1ef3c014729a8b5d1ec29b7330974657693a5709a21770800ff00000002030b0801f024df73a15e8448e3c440e45eededbdb5f8ef11008c0b33bc50ac02c2f81d01d4e4a4d1fc7f6b2d74c9ca550bd2259fce0aec9f00ff00000002030b0801f024df73a15e8448e3c440e45eededbdb5f8ef11008c0b34bc50ac02debf1301a382044a2c422d074053a36cb951e061da9d1f6300ff00000002030b899B3C6DD9CEE1F188BBCAE776A432656071D00F5FE35E660C89EA07EEA5ADE05E4BD71DB257D85D78E87574F8C07CCE743CEC8AF8EB73EB587F2D524EDCF50A"
+2019-01-02 20:57:39,836 INFO   ResponseBody: "oovMHVcZfXd2PMCMqyASKFGvJapUnz6KuTQp9o2utv6VcckFFgH"
+
+2019-01-02 20:57:39,836 INFO   oovMHVcZfXd2PMCMqyASKFGvJapUnz6KuTQp9o2utv6VcckFFgH
+2019-01-05 09:29:53,313 INFO   huh'
+2019-01-05 09:45:14,983 INFO   huh'
+2019-01-05 09:48:40,820 INFO   huh'
+2019-01-05 09:51:29,230 INFO   huh'
+2019-01-05 09:51:31,192 INFO   Waiting for 00:00:03.8100000
+2019-01-05 10:12:30,119 INFO   Waiting for 00:00:04.8820000
+2019-01-05 10:12:35,012 INFO   We must be at block 257727
+2019-01-05 10:29:15,517 INFO   Waiting for 00:00:19.4910000
+2019-01-05 10:29:35,024 INFO   We must be at block 257744
+2019-01-05 10:29:51,915 INFO   That block is old. We must be at block 257744
+2019-01-05 10:29:51,936 INFO   Waiting for 00:00:43.0900000
+2019-01-05 10:30:35,027 INFO   We must be at block 257745
+2019-01-05 11:20:01,382 INFO   That block is old. We must be at block 257793
+2019-01-05 11:20:01,391 INFO   Waiting for 00:00:53.6210000
+2019-01-05 11:20:55,014 INFO   We must be at block 257794
+2019-01-05 17:12:58,534 INFO   KT1MhbE8s8VRrU3B7JEYmxnUD9oR3zJLDZdL  18.59176%  10.007145?
+2019-01-05 17:12:58,546 INFO   KT1Tq3ZpWUzN4b3LxeqEpve7hSx6UzvFtkAC  4.94227%  2.659166?
+2019-01-05 17:12:58,546 INFO   KT1F53SuT5ore7Zc7ANqQ2ABFBHuoE2GQqZC  4.78686%  2.575504?
+2019-01-05 17:12:58,547 INFO   KT1TzSitJ71n8EU6iZzbZaMm3nzg4gjrfraV  2.35790%  1.267918?
+2019-01-05 17:12:58,547 INFO   KT1PVKTkpmuUvscXHUc5UhzobBDq9L7QZMEj  1.53784%  0.826448?
+2019-01-05 17:12:58,739 INFO   Provider: http://mainnet-node.tzscan.io:8732
+2019-01-05 17:12:58,740 INFO   Chain: main
+2019-01-05 17:12:58,745 INFO   Endpoint: chains/main/blocks/head/context/contracts/tz1WGpyzJ1WdZQyKgFN1MY1d7KExGzipFmPJ/balance
+2019-01-05 17:12:59,207 INFO   ResponseBody: "1430"
+
+2019-01-05 17:12:59,231 INFO   Provider: http://mainnet-node.tzscan.io:8732
+2019-01-05 17:12:59,232 INFO   Chain: main
+2019-01-05 17:12:59,241 INFO   Endpoint: chains/main/blocks/head/header
+2019-01-05 17:12:59,377 INFO   ResponseBody: {"protocol":"PsddFKi32cMJ2qPjf43Qv5GDWLDPZb3T3bF6fLKiF5HtvHNU7aP","chain_id":"NetXdQprcVkpaWU","hash":"BLX7Xf7X4Mg44A7bmd5wnYdci2JyeiTFvdEEgKoNx6fKuwWsh82","level":258130,"proto":3,"predecessor":"BMZ5iVFGyQrJoZcZrEVxESt2i53SeLxkQyTL2u5uA4Z9S7a3JsU","timestamp":"2019-01-06T00:11:16Z","validation_pass":4,"operations_hash":"LLoaPw86Rf1Fx6jFhm23gkTuoX5mEkWxhkWPtLsAHsAJcYGuRY541","fitness":["00","000000000077c47f"],"context":"CoW2stLETa3NGsjsAY64idGhccJjsujSkjXtcqTxjFMLhtq3MkNR","priority":0,"proof_of_work_nonce":"00000003ae6b48c5","signature":"sigrEMqcwLNv8G1Zxq9eZfuWu9Q7TrbuhzisLjo6FiwvuiQ4L2Qj2bAShEcLVUT7UCS6uWAuey42FidxMyyCRsxzRpows56n"}
+
+2019-01-05 17:12:59,410 INFO   Endpoint: chains/main/blocks/BLX7Xf7X4Mg44A7bmd5wnYdci2JyeiTFvdEEgKoNx6fKuwWsh82/context/contracts/KT1WUXumx4Fq1W8PhFNxDTey1sHNqwF1Ux3V
+2019-01-05 17:12:59,559 INFO   ResponseBody: {"manager":"tz1WGpyzJ1WdZQyKgFN1MY1d7KExGzipFmPJ","balance":"254860406","spendable":true,"delegate":{"setable":true,"value":"tz1aKxnrzx5PXZJe7unufEswVRCMU9yafmfb"},"counter":"55"}
+
+2019-01-05 17:12:59,562 INFO   Endpoint: chains/main/blocks/head/context/contracts/KT1WUXumx4Fq1W8PhFNxDTey1sHNqwF1Ux3V/manager_key
+2019-01-05 17:12:59,699 INFO   ResponseBody: {"manager":"tz1WGpyzJ1WdZQyKgFN1MY1d7KExGzipFmPJ","key":"edpkuhW7TALmFvoVvoKingUr7FNSNE5WwVV4nDBqQDSdmmhG5w3Ado"}
+
+2019-01-05 17:12:59,741 INFO   Endpoint: chains/main/blocks/head/helpers/forge/operations
+2019-01-05 17:12:59,742 INFO   Data: {"branch":"BLX7Xf7X4Mg44A7bmd5wnYdci2JyeiTFvdEEgKoNx6fKuwWsh82","contents":[{"destination":"KT1MhbE8s8VRrU3B7JEYmxnUD9oR3zJLDZdL","amount":"10007145","storage_limit":"300","gas_limit":"10300","counter":"56","fee":"1420","source":"KT1WUXumx4Fq1W8PhFNxDTey1sHNqwF1Ux3V","kind":"transaction","parameters":{"prim":"Unit","args":[]}},{"destination":"KT1Tq3ZpWUzN4b3LxeqEpve7hSx6UzvFtkAC","amount":"2659166","storage_limit":"300","gas_limit":"10300","counter":"57","fee":"1420","source":"KT1WUXumx4Fq1W8PhFNxDTey1sHNqwF1Ux3V","kind":"transaction","parameters":{"prim":"Unit","args":[]}}]}
+2019-01-05 17:13:00,014 INFO   ResponseBody: "6a55d972c088a94662b4dc08ee564374ce571aa2921d66d66e9d9ae45424efcf0801f024df73a15e8448e3c440e45eededbdb5f8ef11008c0b38bc50ac02e9e4e204018fe3eab5a2d657fea29af755e0ef003f47cb7ed000ff00000002030b0801f024df73a15e8448e3c440e45eededbdb5f8ef11008c0b39bc50ac02dea6a20101d31d91fd24462b01a7cd1b77772ea308be58ec1b00ff00000002030b"
+
+2019-01-05 17:13:00,054 INFO   Endpoint: chains/main/blocks/head/helpers/preapply/operations
+2019-01-05 17:13:00,055 INFO   Data: [{"protocol":"PsddFKi32cMJ2qPjf43Qv5GDWLDPZb3T3bF6fLKiF5HtvHNU7aP","branch":"BLX7Xf7X4Mg44A7bmd5wnYdci2JyeiTFvdEEgKoNx6fKuwWsh82","contents":[{"destination":"KT1MhbE8s8VRrU3B7JEYmxnUD9oR3zJLDZdL","amount":"10007145","storage_limit":"300","gas_limit":"10300","counter":"56","fee":"1420","source":"KT1WUXumx4Fq1W8PhFNxDTey1sHNqwF1Ux3V","kind":"transaction","parameters":{"prim":"Unit","args":[]}},{"destination":"KT1Tq3ZpWUzN4b3LxeqEpve7hSx6UzvFtkAC","amount":"2659166","storage_limit":"300","gas_limit":"10300","counter":"57","fee":"1420","source":"KT1WUXumx4Fq1W8PhFNxDTey1sHNqwF1Ux3V","kind":"transaction","parameters":{"prim":"Unit","args":[]}}],"signature":"edsigtuPYbNdbcWw86NKKcb9meQos24YwmCz75bPToYrdLsmT747kKHvsMnJ4KvZDwL9WYpA7TRAZRXs8csJxnEkSf5sEzuM8w4"}]
+2019-01-05 17:13:00,353 INFO   ResponseBody: [{"contents":[{"kind":"transaction","source":"KT1WUXumx4Fq1W8PhFNxDTey1sHNqwF1Ux3V","fee":"1420","counter":"56","gas_limit":"10300","storage_limit":"300","amount":"10007145","destination":"KT1MhbE8s8VRrU3B7JEYmxnUD9oR3zJLDZdL","parameters":{"prim":"Unit"},"metadata":{"balance_updates":[{"kind":"contract","contract":"KT1WUXumx4Fq1W8PhFNxDTey1sHNqwF1Ux3V","change":"-1420"},{"kind":"freezer","category":"fees","delegate":"tz1Ke2h7sDdakHJQh8WX4Z372du1KChsksyU","level":63,"change":"1420"}],"operation_result":{"status":"applied","balance_updates":[{"kind":"contract","contract":"KT1WUXumx4Fq1W8PhFNxDTey1sHNqwF1Ux3V","change":"-10007145"},{"kind":"contract","contract":"KT1MhbE8s8VRrU3B7JEYmxnUD9oR3zJLDZdL","change":"10007145"}],"consumed_gas":"10107"}}},{"kind":"transaction","source":"KT1WUXumx4Fq1W8PhFNxDTey1sHNqwF1Ux3V","fee":"1420","counter":"57","gas_limit":"10300","storage_limit":"300","amount":"2659166","destination":"KT1Tq3ZpWUzN4b3LxeqEpve7hSx6UzvFtkAC","parameters":{"prim":"Unit"},"metadata":{"balance_updates":[{"kind":"contract","contract":"KT1WUXumx4Fq1W8PhFNxDTey1sHNqwF1Ux3V","change":"-1420"},{"kind":"freezer","category":"fees","delegate":"tz1Ke2h7sDdakHJQh8WX4Z372du1KChsksyU","level":63,"change":"1420"}],"operation_result":{"status":"applied","balance_updates":[{"kind":"contract","contract":"KT1WUXumx4Fq1W8PhFNxDTey1sHNqwF1Ux3V","change":"-2659166"},{"kind":"contract","contract":"KT1Tq3ZpWUzN4b3LxeqEpve7hSx6UzvFtkAC","change":"2659166"}],"consumed_gas":"10107"}}}],"signature":"edsigtuPYbNdbcWw86NKKcb9meQos24YwmCz75bPToYrdLsmT747kKHvsMnJ4KvZDwL9WYpA7TRAZRXs8csJxnEkSf5sEzuM8w4"}]
+
+2019-01-05 17:13:00,365 INFO   Endpoint: injection/operation?chain=main
+2019-01-05 17:13:00,366 INFO   Data: "6a55d972c088a94662b4dc08ee564374ce571aa2921d66d66e9d9ae45424efcf0801f024df73a15e8448e3c440e45eededbdb5f8ef11008c0b38bc50ac02e9e4e204018fe3eab5a2d657fea29af755e0ef003f47cb7ed000ff00000002030b0801f024df73a15e8448e3c440e45eededbdb5f8ef11008c0b39bc50ac02dea6a20101d31d91fd24462b01a7cd1b77772ea308be58ec1b00ff00000002030bA4F7B800D86AA7610BC2703AD02F6A77F64CD0B517BDBF418073FE457386FFD5431FEF242223EB78AB66202C42A3D41471D436484B6A19AA724BFB56394AC902"
+2019-01-05 17:13:00,642 INFO   ResponseBody: "onmfJ4WxxCetBNa8uE7rBsYYpmdUtZ9mgGgTW4iEQC1wRVzAqPo"
+
+2019-01-05 17:13:00,647 INFO   onmfJ4WxxCetBNa8uE7rBsYYpmdUtZ9mgGgTW4iEQC1wRVzAqPo
+2019-01-07 11:44:57,209 INFO   Waiting for 262144
+2019-01-07 11:44:57,681 INFO   Last Block 260609
+2019-01-07 11:44:57,683 INFO   260609 1/7/2019 11:44:37 AM 20 seconds 
+2019-01-07 11:44:57,683 INFO   Waiting for 00:00:39.3180000
+2019-01-07 11:45:37,003 INFO   We must be at block 260610
+2019-01-07 11:45:37,003 INFO   Waiting for 1.01:34:00
+2019-01-07 11:47:17,709 INFO   KT1MhbE8s8VRrU3B7JEYmxnUD9oR3zJLDZdL  18.57829%  1.763517?
+2019-01-07 11:47:17,718 INFO   KT1Tq3ZpWUzN4b3LxeqEpve7hSx6UzvFtkAC  4.93869%  0.467755?
+2019-01-07 11:47:17,719 INFO   KT1F53SuT5ore7Zc7ANqQ2ABFBHuoE2GQqZC  4.78339%  0.453001?
+2019-01-07 11:47:17,720 INFO   KT1TzSitJ71n8EU6iZzbZaMm3nzg4gjrfraV  2.35620%  0.222418?
+2019-01-07 11:47:17,720 INFO   KT1PVKTkpmuUvscXHUc5UhzobBDq9L7QZMEj  1.53672%  0.144568?
+2019-01-07 12:37:42,399 INFO   Rob  KT1MhbE8s8VRrU3B7JEYmxnUD9oR3zJLDZdL 18.57829%  0.1?
+2019-01-07 12:37:42,409 INFO   Daryl  KT1Tq3ZpWUzN4b3LxeqEpve7hSx6UzvFtkAC 4.93869%  0?
+2019-01-07 12:37:42,409 INFO   Lisa  KT1F53SuT5ore7Zc7ANqQ2ABFBHuoE2GQqZC 4.78339%  0?
+2019-01-07 12:37:42,409 INFO   Mark  KT1TzSitJ71n8EU6iZzbZaMm3nzg4gjrfraV 2.35620%  0?
+2019-01-07 12:37:42,410 INFO   Princeton  KT1PVKTkpmuUvscXHUc5UhzobBDq9L7QZMEj 1.53672%  0?
+2019-01-07 12:45:43,097 INFO   Rob  KT1MhbE8s8VRrU3B7JEYmxnUD9oR3zJLDZdL 18.59176%  0.1?
+2019-01-07 12:45:43,109 INFO   Daryl  KT1Tq3ZpWUzN4b3LxeqEpve7hSx6UzvFtkAC 4.94227%  0.2?
+2019-01-07 12:45:43,109 INFO   Lisa  KT1F53SuT5ore7Zc7ANqQ2ABFBHuoE2GQqZC 4.78686%  0.2?
+2019-01-07 12:45:43,109 INFO   Mark  KT1TzSitJ71n8EU6iZzbZaMm3nzg4gjrfraV 2.35790%  0.1?
+2019-01-07 12:45:43,110 INFO   Princeton  KT1PVKTkpmuUvscXHUc5UhzobBDq9L7QZMEj 1.53784%  0?
+2019-01-07 20:19:35,176 INFO   Rob  KT1MhbE8s8VRrU3B7JEYmxnUD9oR3zJLDZdL 18.59176%  10.007295?
+2019-01-07 20:19:35,187 INFO   Daryl  KT1Tq3ZpWUzN4b3LxeqEpve7hSx6UzvFtkAC 4.94227%  2.659316?
+2019-01-07 20:19:35,188 INFO   Lisa  KT1F53SuT5ore7Zc7ANqQ2ABFBHuoE2GQqZC 4.78686%  2.575654?
+2019-01-07 20:19:35,188 INFO   Mark  KT1TzSitJ71n8EU6iZzbZaMm3nzg4gjrfraV 2.35790%  1.268068?
+2019-01-07 20:19:35,189 INFO   Princeton  KT1PVKTkpmuUvscXHUc5UhzobBDq9L7QZMEj 1.53784%  0.826598?
+2019-01-08 11:04:09,195 INFO   Waiting for 262144
+2019-01-08 11:04:09,660 INFO   Last Block 261978
+2019-01-08 11:04:09,662 INFO   261978 1/8/2019 11:03:06 AM 1 minute 3 seconds 
+2019-01-08 11:04:09,662 INFO   That block is old. We must be at block 261979
+2019-01-08 11:04:09,663 INFO   Waiting for 00:00:56.3380000
+2019-01-08 11:05:06,003 INFO   We must be at block 261980
+2019-01-08 11:05:06,004 INFO   Waiting for 02:44:00
+2019-01-13 08:59:59,985 INFO   65  Rob  KT1MhbE8s8VRrU3B7JEYmxnUD9oR3zJLDZdL  18.58015%  2.293378?  
+2019-01-13 09:00:00,002 INFO   65  Daryl  KT1Tq3ZpWUzN4b3LxeqEpve7hSx6UzvFtkAC  4.93918%  0.608718?  
+2019-01-13 09:00:00,003 INFO   65  Lisa  KT1F53SuT5ore7Zc7ANqQ2ABFBHuoE2GQqZC  4.78387%  0.589537?  
+2019-01-13 09:00:00,003 INFO   65  Mark  KT1TzSitJ71n8EU6iZzbZaMm3nzg4gjrfraV  2.35643%  0.289749?  
+2019-01-13 09:00:00,004 INFO   65  Princeton  KT1PVKTkpmuUvscXHUc5UhzobBDq9L7QZMEj  1.53688%  0.188534?  
+2019-01-13 09:42:14,048 INFO   65  Rob  KT1MhbE8s8VRrU3B7JEYmxnUD9oR3zJLDZdL  18.58015%  2.293378?  
+2019-01-13 09:42:14,057 INFO   65  Daryl  KT1Tq3ZpWUzN4b3LxeqEpve7hSx6UzvFtkAC  4.93918%  0.608718?  
+2019-01-13 09:42:14,058 INFO   65  Lisa  KT1F53SuT5ore7Zc7ANqQ2ABFBHuoE2GQqZC  4.78387%  0.589537?  
+2019-01-13 09:42:14,058 INFO   65  Mark  KT1TzSitJ71n8EU6iZzbZaMm3nzg4gjrfraV  2.35643%  0.289749?  
+2019-01-13 09:42:14,059 INFO   65  Princeton  KT1PVKTkpmuUvscXHUc5UhzobBDq9L7QZMEj  1.53688%  0.188534?  
+2019-01-26 08:26:47,187 INFO   Cycle 56 is currently RewardsDelivered
+2019-01-26 08:27:51,009 INFO   Cycle 64 is currently RewardsDelivered
+2019-01-26 08:27:51,018 INFO   Refreshing delegate rewards information.
+2019-01-26 08:29:29,717 INFO   Cycle 64 is currently RewardsDelivered
+2019-01-26 08:29:29,727 INFO   Refreshing delegate rewards information.
+2019-01-26 08:31:10,180 INFO   Cycle 64 is currently RewardsDelivered
+2019-01-26 08:31:10,189 INFO   Refreshing delegate rewards information.
+2019-01-26 08:33:40,827 INFO   Cycle 64 is currently RewardsDelivered
+2019-01-26 08:33:40,839 INFO   Refreshing delegate rewards information.
+2019-01-26 08:35:11,140 INFO   Cycle 64 is currently RewardsDelivered
+2019-01-26 08:35:11,150 INFO   Refreshing delegate rewards information.
+2019-01-26 08:35:13,353 INFO   64  Rob  KT1MhbE8s8VRrU3B7JEYmxnUD9oR3zJLDZdL  18.58944%  2.119195?  
+2019-01-26 08:35:13,359 INFO   64  Daryl  KT1Tq3ZpWUzN4b3LxeqEpve7hSx6UzvFtkAC  4.94165%  0.563347?  
+2019-01-26 08:35:13,361 INFO   64  Lisa  KT1F53SuT5ore7Zc7ANqQ2ABFBHuoE2GQqZC  4.78626%  0.545633?  
+2019-01-26 08:35:13,363 INFO   64  Mark  KT1TzSitJ71n8EU6iZzbZaMm3nzg4gjrfraV  2.35761%  0.268767?  
+2019-01-26 08:35:13,365 INFO   64  Princeton  KT1PVKTkpmuUvscXHUc5UhzobBDq9L7QZMEj  1.53764%  0.175291?  
+2019-01-26 08:54:27,193 INFO   Cycle 64 is currently RewardsDelivered
+2019-01-26 08:54:27,202 INFO   Refreshing delegate rewards information.
+2019-01-26 08:55:02,952 INFO   Cycle 64 is currently RewardsDelivered
+2019-01-26 08:55:02,966 INFO   Refreshing delegate rewards information.
+2019-01-26 08:55:58,405 INFO   Cycle 64 is currently RewardsDelivered
+2019-01-26 08:55:58,418 INFO   Refreshing delegate rewards information.
+2019-01-26 08:57:57,881 INFO   Cycle 64 is currently RewardsDelivered
+2019-01-26 08:57:57,891 INFO   Refreshing delegate rewards information.
+2019-01-26 08:57:59,286 INFO   64  Rob  KT1MhbE8s8VRrU3B7JEYmxnUD9oR3zJLDZdL  18.58944%  2.119195?  
+2019-01-26 08:57:59,291 INFO   64  Daryl  KT1Tq3ZpWUzN4b3LxeqEpve7hSx6UzvFtkAC  4.94165%  0.563347?  
+2019-01-26 08:57:59,294 INFO   64  Lisa  KT1F53SuT5ore7Zc7ANqQ2ABFBHuoE2GQqZC  4.78626%  0.545633?  
+2019-01-26 08:57:59,296 INFO   64  Mark  KT1TzSitJ71n8EU6iZzbZaMm3nzg4gjrfraV  2.35761%  0.268767?  
+2019-01-26 08:57:59,299 INFO   64  Princeton  KT1PVKTkpmuUvscXHUc5UhzobBDq9L7QZMEj  1.53764%  0.175291?  
+2019-01-26 09:01:56,626 INFO   Cycle 65 is currently RewardsPending
+2019-01-26 09:01:56,636 INFO   Refreshing delegate rewards information.
+2019-01-26 09:01:58,744 INFO   65  Rob  KT1MhbE8s8VRrU3B7JEYmxnUD9oR3zJLDZdL  18.58015%  3.000693?  
+2019-01-26 09:01:58,748 INFO   65  Daryl  KT1Tq3ZpWUzN4b3LxeqEpve7hSx6UzvFtkAC  4.93918%  0.797677?  
+2019-01-26 09:01:58,751 INFO   65  Lisa  KT1F53SuT5ore7Zc7ANqQ2ABFBHuoE2GQqZC  4.78387%  0.772594?  
+2019-01-26 09:01:58,753 INFO   65  Mark  KT1TzSitJ71n8EU6iZzbZaMm3nzg4gjrfraV  2.35643%  0.380563?  
+2019-01-26 09:01:58,755 INFO   65  Princeton  KT1PVKTkpmuUvscXHUc5UhzobBDq9L7QZMEj  1.53688%  0.248205?  
+2019-01-26 10:09:58,923 INFO   Cycle 64 is currently RewardsDelivered
+2019-01-26 13:07:38,807 INFO   Cycle 64 is currently RewardsDelivered
+2019-01-26 13:08:58,464 INFO   Cycle 64 is currently RewardsDelivered
+2019-01-26 15:08:07,678 INFO   Cycle 64 is currently RewardsDelivered
+2019-01-27 09:14:25,807 INFO   67  Rob  KT1MhbE8s8VRrU3B7JEYmxnUD9oR3zJLDZdL  18.60223%  4.241308?  
+2019-01-27 09:14:25,825 INFO   67  Daryl  KT1Tq3ZpWUzN4b3LxeqEpve7hSx6UzvFtkAC  4.94167%  1.1267?  
+2019-01-27 09:14:25,828 INFO   67  Lisa  KT1F53SuT5ore7Zc7ANqQ2ABFBHuoE2GQqZC  4.78628%  1.091271?  
+2019-01-27 09:14:25,830 INFO   67  Mark  KT1TzSitJ71n8EU6iZzbZaMm3nzg4gjrfraV  2.35762%  0.537537?  
+2019-01-27 09:14:25,832 INFO   67  Princeton  KT1PVKTkpmuUvscXHUc5UhzobBDq9L7QZMEj  1.53765%  0.350584?  
+2019-01-27 09:14:25,833 INFO   Waiting for 288215
+2019-01-27 09:14:26,307 INFO   Last Block 288212
+2019-01-27 09:14:26,309 INFO   288212 2019-01-27 9:13:06 AM 1 minute 20 seconds 
+2019-01-27 09:14:26,309 INFO   That block is old. We must be at block 288213
+2019-01-27 09:14:26,310 INFO   Waiting for 00:00:39.6910000
+2019-01-27 09:15:06,002 INFO   We must be at block 288214
+2019-01-27 09:15:06,003 INFO   Waiting for 00:01:00
+2019-01-27 09:16:06,004 INFO   Waiting for 288215
+2019-01-27 09:16:06,445 INFO   Last Block 288214
+2019-01-27 09:16:06,446 INFO   288214 2019-01-27 9:15:06 AM 1 minute 
+2019-01-27 09:16:06,446 INFO   That block is old. We must be at block 288215
+2019-01-27 09:16:06,447 INFO   We are at 288215 finished loop.
+2019-01-27 09:16:06,447 INFO   Waiting for 00:00:20 for good measure!
+2019-01-27 09:16:26,668 INFO   Provider: http://mainnet-node.tzscan.io:8732
+2019-01-27 09:16:26,668 INFO   Chain: main
+2019-01-27 09:16:26,676 INFO   Endpoint: chains/main/blocks/head/header
+2019-01-27 09:16:27,246 INFO   ResponseBody: {"protocol":"PsddFKi32cMJ2qPjf43Qv5GDWLDPZb3T3bF6fLKiF5HtvHNU7aP","chain_id":"NetXdQprcVkpaWU","hash":"BKkeeveXgQhmCfMR6o5JCaPQEjjoouk9QrBcJNGKqnr9NLm1D7n","level":288214,"proto":3,"predecessor":"BLCBqRjvW68itCGttEMYWTTq41ncNrCKLcKykPdFBEB732YvKxF","timestamp":"2019-01-27T16:15:06Z","validation_pass":4,"operations_hash":"LLoap3Db2x6XwutFGDAQ3ynTMcQPgUB3US7z281YoMYL372qiEeBx","fitness":["00","000000000086a779"],"context":"CoVtock1484ibhTz9u81C2gtZ3H9cMfMueuLqxAbNiT47c7EBnpV","priority":0,"proof_of_work_nonce":"000000039da5c151","signature":"siga2u8kJQTa6JWVz7cYgbpnwdEaFWxwh6ZBjunz63xKd3GQmiQ6Ztou2sxVbCjsYt2hfpBXm8oBLFoPJZDFQePUaR4Nndx3"}
+
+2019-01-27 09:16:27,293 INFO   Endpoint: chains/main/blocks/BKkeeveXgQhmCfMR6o5JCaPQEjjoouk9QrBcJNGKqnr9NLm1D7n/context/contracts/KT1WUXumx4Fq1W8PhFNxDTey1sHNqwF1Ux3V
+2019-01-27 09:16:27,434 INFO   ResponseBody: {"manager":"tz1WGpyzJ1WdZQyKgFN1MY1d7KExGzipFmPJ","balance":"173134070","spendable":true,"delegate":{"setable":true,"value":"tz1aKxnrzx5PXZJe7unufEswVRCMU9yafmfb"},"counter":"78"}
+
+2019-01-27 09:16:27,447 INFO   Endpoint: chains/main/blocks/head/context/contracts/KT1WUXumx4Fq1W8PhFNxDTey1sHNqwF1Ux3V/manager_key
+2019-01-27 09:16:27,589 INFO   ResponseBody: {"manager":"tz1WGpyzJ1WdZQyKgFN1MY1d7KExGzipFmPJ","key":"edpkuhW7TALmFvoVvoKingUr7FNSNE5WwVV4nDBqQDSdmmhG5w3Ado"}
+
+2019-01-27 09:16:27,640 INFO   Endpoint: chains/main/blocks/head/helpers/forge/operations
+2019-01-27 09:16:27,641 INFO   Data: {"branch":"BKkeeveXgQhmCfMR6o5JCaPQEjjoouk9QrBcJNGKqnr9NLm1D7n","contents":[{"destination":"KT1MhbE8s8VRrU3B7JEYmxnUD9oR3zJLDZdL","amount":"4241308","storage_limit":"0","gas_limit":"10100","counter":"79","fee":"1270","source":"KT1WUXumx4Fq1W8PhFNxDTey1sHNqwF1Ux3V","kind":"transaction"},{"destination":"KT1Tq3ZpWUzN4b3LxeqEpve7hSx6UzvFtkAC","amount":"1126700","storage_limit":"0","gas_limit":"10100","counter":"80","fee":"1270","source":"KT1WUXumx4Fq1W8PhFNxDTey1sHNqwF1Ux3V","kind":"transaction"},{"destination":"KT1F53SuT5ore7Zc7ANqQ2ABFBHuoE2GQqZC","amount":"1091271","storage_limit":"0","gas_limit":"10100","counter":"81","fee":"1270","source":"KT1WUXumx4Fq1W8PhFNxDTey1sHNqwF1Ux3V","kind":"transaction"},{"destination":"KT1TzSitJ71n8EU6iZzbZaMm3nzg4gjrfraV","amount":"537537","storage_limit":"0","gas_limit":"10100","counter":"82","fee":"1270","source":"KT1WUXumx4Fq1W8PhFNxDTey1sHNqwF1Ux3V","kind":"transaction"},{"destination":"KT1PVKTkpmuUvscXHUc5UhzobBDq9L7QZMEj","amount":"350584","storage_limit":"0","gas_limit":"10100","counter":"83","fee":"1270","source":"KT1WUXumx4Fq1W8PhFNxDTey1sHNqwF1Ux3V","kind":"transaction"}]}
+2019-01-27 09:16:27,938 INFO   ResponseBody: "056038411859d31868a204b794d6342516f73144e1527414ee7d45cd6407ceb60801f024df73a15e8448e3c440e45eededbdb5f8ef1100f6094ff44e009cef8202018fe3eab5a2d657fea29af755e0ef003f47cb7ed000000801f024df73a15e8448e3c440e45eededbdb5f8ef1100f60950f44e00ace24401d31d91fd24462b01a7cd1b77772ea308be58ec1b00000801f024df73a15e8448e3c440e45eededbdb5f8ef1100f60951f44e00c7cd42014729a8b5d1ec29b7330974657693a5709a21770800000801f024df73a15e8448e3c440e45eededbdb5f8ef1100f60952f44e00c1e72001d4e4a4d1fc7f6b2d74c9ca550bd2259fce0aec9f00000801f024df73a15e8448e3c440e45eededbdb5f8ef1100f60953f44e00f8b21501a382044a2c422d074053a36cb951e061da9d1f630000"
+
+2019-01-27 09:16:27,998 INFO   Endpoint: chains/main/blocks/head/helpers/preapply/operations
+2019-01-27 09:16:27,999 INFO   Data: [{"protocol":"PsddFKi32cMJ2qPjf43Qv5GDWLDPZb3T3bF6fLKiF5HtvHNU7aP","branch":"BKkeeveXgQhmCfMR6o5JCaPQEjjoouk9QrBcJNGKqnr9NLm1D7n","contents":[{"destination":"KT1MhbE8s8VRrU3B7JEYmxnUD9oR3zJLDZdL","amount":"4241308","storage_limit":"0","gas_limit":"10100","counter":"79","fee":"1270","source":"KT1WUXumx4Fq1W8PhFNxDTey1sHNqwF1Ux3V","kind":"transaction"},{"destination":"KT1Tq3ZpWUzN4b3LxeqEpve7hSx6UzvFtkAC","amount":"1126700","storage_limit":"0","gas_limit":"10100","counter":"80","fee":"1270","source":"KT1WUXumx4Fq1W8PhFNxDTey1sHNqwF1Ux3V","kind":"transaction"},{"destination":"KT1F53SuT5ore7Zc7ANqQ2ABFBHuoE2GQqZC","amount":"1091271","storage_limit":"0","gas_limit":"10100","counter":"81","fee":"1270","source":"KT1WUXumx4Fq1W8PhFNxDTey1sHNqwF1Ux3V","kind":"transaction"},{"destination":"KT1TzSitJ71n8EU6iZzbZaMm3nzg4gjrfraV","amount":"537537","storage_limit":"0","gas_limit":"10100","counter":"82","fee":"1270","source":"KT1WUXumx4Fq1W8PhFNxDTey1sHNqwF1Ux3V","kind":"transaction"},{"destination":"KT1PVKTkpmuUvscXHUc5UhzobBDq9L7QZMEj","amount":"350584","storage_limit":"0","gas_limit":"10100","counter":"83","fee":"1270","source":"KT1WUXumx4Fq1W8PhFNxDTey1sHNqwF1Ux3V","kind":"transaction"}],"signature":"edsigtt5ZndVbwjM3XYmdPZ7yQReZg7eeu3wSzGPuchn5my9t9KZLymFYuLVafT1eR4DVpWc5zSc1nXtqrqAXEPPLVDKsCFmgtW"}]
+2019-01-27 09:16:28,318 INFO   ResponseBody: [{"contents":[{"kind":"transaction","source":"KT1WUXumx4Fq1W8PhFNxDTey1sHNqwF1Ux3V","fee":"1270","counter":"79","gas_limit":"10100","storage_limit":"0","amount":"4241308","destination":"KT1MhbE8s8VRrU3B7JEYmxnUD9oR3zJLDZdL","metadata":{"balance_updates":[{"kind":"contract","contract":"KT1WUXumx4Fq1W8PhFNxDTey1sHNqwF1Ux3V","change":"-1270"},{"kind":"freezer","category":"fees","delegate":"tz1Ke2h7sDdakHJQh8WX4Z372du1KChsksyU","level":70,"change":"1270"}],"operation_result":{"status":"applied","balance_updates":[{"kind":"contract","contract":"KT1WUXumx4Fq1W8PhFNxDTey1sHNqwF1Ux3V","change":"-4241308"},{"kind":"contract","contract":"KT1MhbE8s8VRrU3B7JEYmxnUD9oR3zJLDZdL","change":"4241308"}],"consumed_gas":"10100"}}},{"kind":"transaction","source":"KT1WUXumx4Fq1W8PhFNxDTey1sHNqwF1Ux3V","fee":"1270","counter":"80","gas_limit":"10100","storage_limit":"0","amount":"1126700","destination":"KT1Tq3ZpWUzN4b3LxeqEpve7hSx6UzvFtkAC","metadata":{"balance_updates":[{"kind":"contract","contract":"KT1WUXumx4Fq1W8PhFNxDTey1sHNqwF1Ux3V","change":"-1270"},{"kind":"freezer","category":"fees","delegate":"tz1Ke2h7sDdakHJQh8WX4Z372du1KChsksyU","level":70,"change":"1270"}],"operation_result":{"status":"applied","balance_updates":[{"kind":"contract","contract":"KT1WUXumx4Fq1W8PhFNxDTey1sHNqwF1Ux3V","change":"-1126700"},{"kind":"contract","contract":"KT1Tq3ZpWUzN4b3LxeqEpve7hSx6UzvFtkAC","change":"1126700"}],"consumed_gas":"10100"}}},{"kind":"transaction","source":"KT1WUXumx4Fq1W8PhFNxDTey1sHNqwF1Ux3V","fee":"1270","counter":"81","gas_limit":"10100","storage_limit":"0","amount":"1091271","destination":"KT1F53SuT5ore7Zc7ANqQ2ABFBHuoE2GQqZC","metadata":{"balance_updates":[{"kind":"contract","contract":"KT1WUXumx4Fq1W8PhFNxDTey1sHNqwF1Ux3V","change":"-1270"},{"kind":"freezer","category":"fees","delegate":"tz1Ke2h7sDdakHJQh8WX4Z372du1KChsksyU","level":70,"change":"1270"}],"operation_result":{"status":"applied","balance_updates":[{"kind":"contract","contract":"KT1WUXumx4Fq1W8PhFNxDTey1sHNqwF1Ux3V","change":"-1091271"},{"kind":"contract","contract":"KT1F53SuT5ore7Zc7ANqQ2ABFBHuoE2GQqZC","change":"1091271"}],"consumed_gas":"10100"}}},{"kind":"transaction","source":"KT1WUXumx4Fq1W8PhFNxDTey1sHNqwF1Ux3V","fee":"1270","counter":"82","gas_limit":"10100","storage_limit":"0","amount":"537537","destination":"KT1TzSitJ71n8EU6iZzbZaMm3nzg4gjrfraV","metadata":{"balance_updates":[{"kind":"contract","contract":"KT1WUXumx4Fq1W8PhFNxDTey1sHNqwF1Ux3V","change":"-1270"},{"kind":"freezer","category":"fees","delegate":"tz1Ke2h7sDdakHJQh8WX4Z372du1KChsksyU","level":70,"change":"1270"}],"operation_result":{"status":"applied","balance_updates":[{"kind":"contract","contract":"KT1WUXumx4Fq1W8PhFNxDTey1sHNqwF1Ux3V","change":"-537537"},{"kind":"contract","contract":"KT1TzSitJ71n8EU6iZzbZaMm3nzg4gjrfraV","change":"537537"}],"consumed_gas":"10100"}}},{"kind":"transaction","source":"KT1WUXumx4Fq1W8PhFNxDTey1sHNqwF1Ux3V","fee":"1270","counter":"83","gas_limit":"10100","storage_limit":"0","amount":"350584","destination":"KT1PVKTkpmuUvscXHUc5UhzobBDq9L7QZMEj","metadata":{"balance_updates":[{"kind":"contract","contract":"KT1WUXumx4Fq1W8PhFNxDTey1sHNqwF1Ux3V","change":"-1270"},{"kind":"freezer","category":"fees","delegate":"tz1Ke2h7sDdakHJQh8WX4Z372du1KChsksyU","level":70,"change":"1270"}],"operation_result":{"status":"applied","balance_updates":[{"kind":"contract","contract":"KT1WUXumx4Fq1W8PhFNxDTey1sHNqwF1Ux3V","change":"-350584"},{"kind":"contract","contract":"KT1PVKTkpmuUvscXHUc5UhzobBDq9L7QZMEj","change":"350584"}],"consumed_gas":"10100"}}}],"signature":"edsigtt5ZndVbwjM3XYmdPZ7yQReZg7eeu3wSzGPuchn5my9t9KZLymFYuLVafT1eR4DVpWc5zSc1nXtqrqAXEPPLVDKsCFmgtW"}]
+
+2019-01-27 09:16:28,375 INFO   Endpoint: injection/operation?chain=main
+2019-01-27 09:16:28,376 INFO   Data: "056038411859d31868a204b794d6342516f73144e1527414ee7d45cd6407ceb60801f024df73a15e8448e3c440e45eededbdb5f8ef1100f6094ff44e009cef8202018fe3eab5a2d657fea29af755e0ef003f47cb7ed000000801f024df73a15e8448e3c440e45eededbdb5f8ef1100f60950f44e00ace24401d31d91fd24462b01a7cd1b77772ea308be58ec1b00000801f024df73a15e8448e3c440e45eededbdb5f8ef1100f60951f44e00c7cd42014729a8b5d1ec29b7330974657693a5709a21770800000801f024df73a15e8448e3c440e45eededbdb5f8ef1100f60952f44e00c1e72001d4e4a4d1fc7f6b2d74c9ca550bd2259fce0aec9f00000801f024df73a15e8448e3c440e45eededbdb5f8ef1100f60953f44e00f8b21501a382044a2c422d074053a36cb951e061da9d1f6300009AF461D6D23B81C0DB942AA8AE00EF3C8E5E62E99001207CD3E755449B69BDAD7E1A093B73F4DD7C3CAA302F7290D3939B902E8030505E09150FFF85A21DA306"
+2019-01-27 09:16:28,676 INFO   ResponseBody: "oox6eT9xjKyZqMmonQzu7B2jKCwGKNNJnGTGnUFhGNYnXHTzmvv"
+
+2019-01-27 09:16:28,685 INFO   oox6eT9xjKyZqMmonQzu7B2jKCwGKNNJnGTGnUFhGNYnXHTzmvv

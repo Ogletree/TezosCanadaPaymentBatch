@@ -1,0 +1,47 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <TargetsForTfmSpecificBuildOutput>$(TargetsForTfmSpecificBuildOutput);IncludeP2PAssets</TargetsForTfmSpecificBuildOutput>
+    <Version>0.8.4</Version>
+    <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
+    <Authors>Mark Scappini</Authors>
+    <Company />
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Security\mnemonic\wordlist\english.txt" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="Security\mnemonic\wordlist\english.txt" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Konscious.Security.Cryptography.Blake2" Version="1.0.9" />
+    <PackageReference Include="log4net" Version="2.0.8" />
+    <PackageReference Include="Microsoft.AspNetCore.Cryptography.KeyDerivation" Version="2.2.0" />
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.1" />
+    <PackageReference Include="System.Data.SQLite" Version="1.0.109.2" />
+    <PackageReference Include="Telegram.Bot" Version="14.10.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Base58Check.Core">
+      <HintPath>..\..\lib\Base58Check.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Chaos.NaCl.Core">
+      <HintPath>..\..\lib\Chaos.NaCl.Core.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+  <Target Name="IncludeP2PAssets">
+    <ItemGroup>
+      <BuildOutputInPackage Include="$(OutputPath)Base58Check.Core.dll" />
+      <BuildOutputInPackage Include="$(OutputPath)Base58Check.Core.pdb" />
+      <BuildOutputInPackage Include="$(OutputPath)Chaos.NaCl.Core.dll" />
+      <BuildOutputInPackage Include="$(OutputPath)Chaos.NaCl.Core.pdb" />
+    </ItemGroup>
+  </Target>
+
+</Project>
